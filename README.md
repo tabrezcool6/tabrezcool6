@@ -10,7 +10,7 @@
 - 📫 How to reach me **tabrezcool6@gmail.com**
 
 <h3 align="left">Skills:</h3>
-Flutter, Java, Dart
+Flutter, Java, Dart, Firebase, Supabase, Node.JS, Postman, RestAPI, State Management (Provider, Bloc), S.O.L.I.D Principles, Clean Architecture, Dependency Injection (GetIt), Offline Storage i.e Caching (SQFLite, Hive, Shared Preference), Socket.IO, Github, HTML, CSS, JS, XML, PHP
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
