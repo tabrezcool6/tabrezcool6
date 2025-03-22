@@ -3,7 +3,7 @@
 
 <h3 align="start">About Me,</h3>
 
-- 💬 I'm a **Flutter Developer** at **iBuild Software Solutions**
+- 💬 I'm a **Flutter Developer** at **iBuild Software Solutions, Bengaluru**
 
 - 🌱 I’m currently learning **AWS, Docker, DSA**
 
