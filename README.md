@@ -3,7 +3,7 @@
 
 <h3 align="start">About Me,</h3>
 
-- 💬 I'm a **Flutter Developer** at **Rokkun, Bengaluru**
+- 💬 I'm a **Flutter Developer** at <a href="https://in.linkedin.com/company/rokkun" target="_blank">**Rokkun**</a> **Bengaluru**
 
 - 🌱 I’m currently learning **AWS, Docker, DSA**
 
